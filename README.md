@@ -1,9 +1,9 @@
 # ManageIQ::Decorators
 
 [![Gem Version](https://badge.fury.io/rb/manageiq-decorators.svg)](http://badge.fury.io/rb/manageiq-decorators)
-[![Build Status](https://travis-ci.org/ManageIQ/manageiq-decorators.svg)](https://travis-ci.org/ManageIQ/manageiq-decorators)
+[![Build Status](https://travis-ci.org/ManageIQ/manageiq-decorators.svg?branch=ivanchuk)](https://travis-ci.org/ManageIQ/manageiq-decorators)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-decorators.svg)](https://codeclimate.com/github/ManageIQ/manageiq-decorators)
-[![Security](https://hakiri.io/github/ManageIQ/manageiq-decorators/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-decorators/master)
+[![Security](https://hakiri.io/github/ManageIQ/manageiq-decorators/ivanchuk.svg)](https://hakiri.io/github/ManageIQ/manageiq-decorators/ivanchuk)
 
 Model decorators with the related SVG assets for ManageIQ
 
