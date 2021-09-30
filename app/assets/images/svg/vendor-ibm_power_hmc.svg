@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.699999 12.7"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:2.71968px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:9.79439;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22664"
+     x="-0.20397584"
+     y="5.0664287"
+     id="text1551"
+     transform="matrix(1.4840937,0,0,1.4455546,0.55395832,-4.5356964)"><tspan
+       x="-0.20397584"
+       y="5.0664287"
+       id="tspan6690"><tspan
+   style="font-weight:bold;font-family:'IBM Plex Mono';fill:#0099d3"
+   id="tspan6688">IBM</tspan>
+</tspan><tspan
+       x="-0.20397584"
+       y="8.4859649"
+       id="tspan6694"><tspan
+   style="font-weight:bold;font-family:'IBM Plex Mono';fill:#0099d3"
+   id="tspan6692">Power</tspan>
+</tspan><tspan
+       x="-0.20397584"
+       y="11.905501"
+       id="tspan6698"><tspan
+         style="font-weight:bold;font-family:'IBM Plex Mono';fill:#0099d3"
+         id="tspan6696">HMC</tspan></tspan></text>
+</svg>
