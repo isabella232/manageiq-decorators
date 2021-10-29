@@ -1,6 +1,6 @@
 # ManageIQ::Decorators
 
-[![Build Status](https://travis-ci.com/ManageIQ/manageiq-decorators.svg?branch=master)](https://travis-ci.com/ManageIQ/manageiq-decorators)
+[![Build Status](https://travis-ci.com/ManageIQ/manageiq-decorators.svg?branch=master)](https://travis-ci.com/github/ManageIQ/manageiq-decorators)
 [![Maintainability](https://api.codeclimate.com/v1/badges/1c205c246f7adf07c4c2/maintainability)](https://codeclimate.com/github/ManageIQ/manageiq-decorators/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/1c205c246f7adf07c4c2/test_coverage)](https://codeclimate.com/github/ManageIQ/manageiq-decorators/test_coverage)
 [![Security](https://hakiri.io/github/ManageIQ/manageiq-decorators/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-decorators/master)
